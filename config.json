@@ -1,0 +1,9 @@
+{
+    "key_path"      : "C:\\Users\\Nagesh\\Downloads\\aws_ec2_key.pem",
+    "key_name"      : "ec2-key-pair",
+    "ami_id"        : "ami-04f8d7ed2f1a54b14",
+    "instance_type" : "t2.micro",
+    "region_name"   : "ap-south-1", 
+    "ec2_data_path" :"./configs/ec2_data.json"
+}
+
